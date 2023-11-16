@@ -40,7 +40,7 @@
             // 
             this.label1.AutoSize = true;
             this.label1.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label1.Location = new System.Drawing.Point(545, 85);
+            this.label1.Location = new System.Drawing.Point(503, 85);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(57, 21);
             this.label1.TabIndex = 1;
@@ -75,7 +75,8 @@
             this.txtSearch.Font = new System.Drawing.Font("Segoe UI", 9F);
             this.txtSearch.HoverState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(94)))), ((int)(((byte)(148)))), ((int)(((byte)(255)))));
             this.txtSearch.IconLeft = global::projet_de_groupe.Properties.Resources.icons8_search_52;
-            this.txtSearch.Location = new System.Drawing.Point(549, 109);
+            this.txtSearch.Location = new System.Drawing.Point(507, 109);
+            this.txtSearch.Modified = true;
             this.txtSearch.Name = "txtSearch";
             this.txtSearch.PasswordChar = '\0';
             this.txtSearch.PlaceholderForeColor = System.Drawing.Color.Gray;
@@ -83,6 +84,7 @@
             this.txtSearch.SelectedText = "";
             this.txtSearch.Size = new System.Drawing.Size(318, 36);
             this.txtSearch.TabIndex = 0;
+            this.txtSearch.TextChanged += new System.EventHandler(this.txtSearch_TextChanged);
             // 
             // label2
             // 
@@ -98,7 +100,7 @@
             // 
             this.guna2Separator1.Location = new System.Drawing.Point(38, 151);
             this.guna2Separator1.Name = "guna2Separator1";
-            this.guna2Separator1.Size = new System.Drawing.Size(829, 22);
+            this.guna2Separator1.Size = new System.Drawing.Size(808, 22);
             this.guna2Separator1.TabIndex = 4;
             // 
             // sampleviews
@@ -113,7 +115,7 @@
             this.Controls.Add(this.txtSearch);
             this.Font = new System.Drawing.Font("Segoe UI", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
-            this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.Margin = new System.Windows.Forms.Padding(4);
             this.Name = "sampleviews";
             this.Text = "sampleviews";
             this.Load += new System.EventHandler(this.sampleviews_Load);
@@ -123,10 +125,10 @@
         }
 
         #endregion
-        private System.Windows.Forms.Label label1;
-        private Guna.UI2.WinForms.Guna2Separator guna2Separator1;
         public Guna.UI2.WinForms.Guna2TextBox txtSearch;
         public Guna.UI2.WinForms.Guna2ImageButton BtnAdd;
         public System.Windows.Forms.Label label2;
+        public System.Windows.Forms.Label label1;
+        public Guna.UI2.WinForms.Guna2Separator guna2Separator1;
     }
 }

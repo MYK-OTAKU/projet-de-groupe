@@ -8,19 +8,20 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace projet_de_groupe
+namespace projet_de_groupe.View
 {
-    public partial class sampleviews : Form
+    public partial class categoryView : sampleviews
     {
-        public sampleviews()
+        public categoryView()
         {
             InitializeComponent();
         }
 
-        private void label1_Click(object sender, EventArgs e)
+        private void categoryView_Load(object sender, EventArgs e)
         {
 
         }
+
 
         public virtual void sampleviews_Load(object sender, EventArgs e)
         {
@@ -28,11 +29,6 @@ namespace projet_de_groupe
         }
 
         public virtual void guna2ImageButton1_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void txtSearch_TextChanged(object sender, EventArgs e)
         {
 
         }
