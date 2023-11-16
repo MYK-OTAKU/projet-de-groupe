@@ -15,6 +15,7 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 using System.Data.SqlClient;
 using System.Data;
+using static System.Windows.Forms.VisualStyles.VisualStyleElement;
 
 namespace projet_de_groupe
 {
@@ -82,6 +83,9 @@ namespace projet_de_groupe
                 pgp.Show();
             }
         }
+        //create property for username
+
+
 
         private void gunaPictureBox2_Click(object sender, EventArgs e)
         {

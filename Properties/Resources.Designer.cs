@@ -73,6 +73,36 @@ namespace projet_de_groupe.Properties {
         /// <summary>
         ///   Recherche une ressource localisée de type System.Drawing.Bitmap.
         /// </summary>
+        public static System.Drawing.Bitmap icons8_add_new_52_pngtrue {
+            get {
+                object obj = ResourceManager.GetObject("icons8-add-new-52.pngtrue", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Recherche une ressource localisée de type System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap icons8_chef_hat_16__4_ {
+            get {
+                object obj = ResourceManager.GetObject("icons8-chef-hat-16 (4)", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Recherche une ressource localisée de type System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap icons8_chef_hat_96 {
+            get {
+                object obj = ResourceManager.GetObject("icons8-chef-hat-96", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Recherche une ressource localisée de type System.Drawing.Bitmap.
+        /// </summary>
         public static System.Drawing.Bitmap icons8_fork_and_knife_with_plate_96 {
             get {
                 object obj = ResourceManager.GetObject("icons8-fork-and-knife-with-plate-96", resourceCulture);
@@ -126,6 +156,116 @@ namespace projet_de_groupe.Properties {
         public static System.Drawing.Bitmap icons8_medium_priority_64 {
             get {
                 object obj = ResourceManager.GetObject("icons8-medium-priority-64", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Recherche une ressource localisée de type System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap icons8_name_tag_50 {
+            get {
+                object obj = ResourceManager.GetObject("icons8-name-tag-50", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Recherche une ressource localisée de type System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap icons8_name_tag_50_png2 {
+            get {
+                object obj = ResourceManager.GetObject("icons8-name-tag-50.png2", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Recherche une ressource localisée de type System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap icons8_package_26w__2_ {
+            get {
+                object obj = ResourceManager.GetObject("icons8-package-26w (2)", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Recherche une ressource localisée de type System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap icons8_package_52 {
+            get {
+                object obj = ResourceManager.GetObject("icons8-package-52", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Recherche une ressource localisée de type System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap icons8_pos_96 {
+            get {
+                object obj = ResourceManager.GetObject("icons8-pos-96", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Recherche une ressource localisée de type System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap icons8_pos_96__1_ {
+            get {
+                object obj = ResourceManager.GetObject("icons8-pos-96 (1)", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Recherche une ressource localisée de type System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap icons8_search_52 {
+            get {
+                object obj = ResourceManager.GetObject("icons8-search-52", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Recherche une ressource localisée de type System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap icons8_settings_16w__4_ {
+            get {
+                object obj = ResourceManager.GetObject("icons8-settings-16w (4)", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Recherche une ressource localisée de type System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap icons8_settings_96 {
+            get {
+                object obj = ResourceManager.GetObject("icons8-settings-96", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Recherche une ressource localisée de type System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap icons8_table_50 {
+            get {
+                object obj = ResourceManager.GetObject("icons8-table-50", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Recherche une ressource localisée de type System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap icons8_table_50_png2 {
+            get {
+                object obj = ResourceManager.GetObject("icons8-table-50.png2", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

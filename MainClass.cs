@@ -5,6 +5,7 @@ using System.Data.SqlClient;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Windows.Forms;
 
 namespace projet_de_groupe
 {
@@ -36,6 +37,7 @@ namespace projet_de_groupe
             if (dt.Rows.Count > 0)
             {
                 isValid = true;
+                USER = dt.Rows[0]["uName"].ToString();
             }
 
 
@@ -44,6 +46,46 @@ namespace projet_de_groupe
 
             return isValid;
         }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        public static string user;
+
+        public static string USER
+        {
+            get { return user; }
+            private set { user = value; }
+        }
+
+
+
+
     }
 
+
+
+
+
+
+
+
+
+
 }
+
+
