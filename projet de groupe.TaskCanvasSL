@@ -1,0 +1,96 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SerializableModel xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <tasks>
+    <tasks>
+      <Task>
+        <blocks />
+        <tabs>
+          <DocumentTab>
+            <name>sampleAdd.Designer.cs</name>
+            <path>sampleAdd.Designer.cs</path>
+            <absolutePath>C:\Users\Mohamed\Desktop\Projet C#\projet de groupe\sampleAdd.Designer.cs</absolutePath>
+            <position>
+              <line>92</line>
+              <column>27</column>
+              <lineHash>jobb0bS3FZ7h3JPQWgsMc9V/rx0tsnVUVrScalYlfPg=</lineHash>
+            </position>
+          </DocumentTab>
+          <DocumentTab>
+            <name>sampleviews.cs [Design]</name>
+            <path>sampleviews.cs</path>
+            <absolutePath>C:\Users\Mohamed\Desktop\Projet C#\projet de groupe\sampleviews.cs</absolutePath>
+            <viewKind>7651a702-06e5-11d1-8ebd-00a0c90f26ea</viewKind>
+            <position>
+              <line>1</line>
+              <column>6</column>
+              <lineHash>+C3wS7Ft5DyHeLCyPV9r1wsaOWkxFdQYa1IzhmbnvNw=</lineHash>
+            </position>
+          </DocumentTab>
+          <DocumentTab>
+            <name>categoryView.cs [Design]</name>
+            <path>View\categoryView.cs</path>
+            <absolutePath>C:\Users\Mohamed\Desktop\Projet C#\projet de groupe\View\categoryView.cs</absolutePath>
+            <viewKind>7651a702-06e5-11d1-8ebd-00a0c90f26ea</viewKind>
+          </DocumentTab>
+          <DocumentTab>
+            <name>Form1.cs</name>
+            <path>Form1.cs</path>
+            <absolutePath>C:\Users\Mohamed\Desktop\Projet C#\projet de groupe\Form1.cs</absolutePath>
+            <position>
+              <line>100</line>
+              <column>2</column>
+              <lineHash>DTrSGrG4IkF8AcqxnyRielQDOIyt1Ni9xKm99+LJHmc=</lineHash>
+            </position>
+          </DocumentTab>
+          <DocumentTab>
+            <name>sampleviews.cs</name>
+            <path>sampleviews.cs</path>
+            <absolutePath>C:\Users\Mohamed\Desktop\Projet C#\projet de groupe\sampleviews.cs</absolutePath>
+            <position>
+              <line>1</line>
+              <column>6</column>
+              <lineHash>+C3wS7Ft5DyHeLCyPV9r1wsaOWkxFdQYa1IzhmbnvNw=</lineHash>
+            </position>
+          </DocumentTab>
+          <DocumentTab>
+            <name>categoryView.Designer.cs</name>
+            <path>View\categoryView.Designer.cs</path>
+            <absolutePath>C:\Users\Mohamed\Desktop\Projet C#\projet de groupe\View\categoryView.Designer.cs</absolutePath>
+            <position>
+              <line>1</line>
+              <column>1</column>
+              <lineHash>qqieX7IffpUBpmD86CjHkB5goe0vH+azAro8z4pICQU=</lineHash>
+            </position>
+          </DocumentTab>
+          <DocumentTab>
+            <name>Form1.cs [Design]</name>
+            <path>Form1.cs</path>
+            <absolutePath>C:\Users\Mohamed\Desktop\Projet C#\projet de groupe\Form1.cs</absolutePath>
+            <viewKind>7651a702-06e5-11d1-8ebd-00a0c90f26ea</viewKind>
+            <position>
+              <line>100</line>
+              <column>2</column>
+              <lineHash>DTrSGrG4IkF8AcqxnyRielQDOIyt1Ni9xKm99+LJHmc=</lineHash>
+            </position>
+          </DocumentTab>
+          <DocumentTab>
+            <name>Form1.Designer.cs</name>
+            <path>Form1.Designer.cs</path>
+            <absolutePath>C:\Users\Mohamed\Desktop\Projet C#\projet de groupe\Form1.Designer.cs</absolutePath>
+            <position>
+              <line>203</line>
+              <column>40</column>
+              <lineHash>QllkqaUhqMIbZsdN+Zr0TyZewE8SPBjfWpb+gX0Damc=</lineHash>
+            </position>
+          </DocumentTab>
+        </tabs>
+        <name>Misc</name>
+        <selectedBlock>-1</selectedBlock>
+        <selectedTab>-1</selectedTab>
+        <startupProjects />
+        <startupProjectsInitialized>false</startupProjectsInitialized>
+      </Task>
+    </tasks>
+    <selectedTask>0</selectedTask>
+  </tasks>
+</SerializableModel>

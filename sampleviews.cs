@@ -22,7 +22,7 @@ namespace projet_de_groupe
 
         }
 
-        public virtual void sampleviews_Load(object sender, EventArgs e)
+        private void sampleviews_Load(object sender, EventArgs e)
         {
 
         }
@@ -32,7 +32,7 @@ namespace projet_de_groupe
 
         }
 
-        private void txtSearch_TextChanged(object sender, EventArgs e)
+        public virtual void txtSearch_TextChanged_1(object sender, EventArgs e)
         {
 
         }

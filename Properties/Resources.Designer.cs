@@ -113,6 +113,16 @@ namespace projet_de_groupe.Properties {
         /// <summary>
         ///   Recherche une ressource localisée de type System.Drawing.Bitmap.
         /// </summary>
+        public static System.Drawing.Bitmap icons8_full_recycle_bin_96 {
+            get {
+                object obj = ResourceManager.GetObject("icons8-full-recycle-bin-96", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Recherche une ressource localisée de type System.Drawing.Bitmap.
+        /// </summary>
         public static System.Drawing.Bitmap icons8_home_50 {
             get {
                 object obj = ResourceManager.GetObject("icons8-home-50", resourceCulture);
@@ -196,6 +206,16 @@ namespace projet_de_groupe.Properties {
         public static System.Drawing.Bitmap icons8_package_52 {
             get {
                 object obj = ResourceManager.GetObject("icons8-package-52", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Recherche une ressource localisée de type System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap icons8_pencil_96 {
+            get {
+                object obj = ResourceManager.GetObject("icons8-pencil-96", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

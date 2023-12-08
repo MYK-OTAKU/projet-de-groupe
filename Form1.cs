@@ -91,6 +91,11 @@ namespace projet_de_groupe
         {
 
         }
+
+        private void gunaPanel1_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
     }
 }
 

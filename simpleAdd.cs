@@ -10,21 +10,11 @@ using System.Windows.Forms;
 
 namespace projet_de_groupe
 {
-    public partial class sampleAdd : Form
+    public partial class simpleAdd : Form
     {
-        public sampleAdd()
+        public simpleAdd()
         {
             InitializeComponent();
-        }
-
-        public virtual void btnSave_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        public virtual void btnClose_Click(object sender, EventArgs e)
-        {
-            this.Close();
         }
     }
 }

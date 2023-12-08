@@ -8,23 +8,18 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace projet_de_groupe
+namespace projet_de_groupe.Model
 {
-    public partial class sampleAdd : Form
+    public partial class categoryAdd : sampleAdd
     {
-        public sampleAdd()
+        public categoryAdd()
         {
             InitializeComponent();
         }
 
-        public virtual void btnSave_Click(object sender, EventArgs e)
+        private void categoryAdd_Load(object sender, EventArgs e)
         {
 
-        }
-
-        public virtual void btnClose_Click(object sender, EventArgs e)
-        {
-            this.Close();
         }
     }
 }
