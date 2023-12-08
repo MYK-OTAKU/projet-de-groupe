@@ -42,6 +42,7 @@
             // 
             // BtnAdd
             // 
+<<<<<<< Updated upstream
             this.BtnAdd.CheckedState.ImageSize = new System.Drawing.Size(55, 55);
             this.BtnAdd.DialogResult = System.Windows.Forms.DialogResult.None;
             this.BtnAdd.HoverState.ImageSize = new System.Drawing.Size(57, 57);
@@ -55,6 +56,11 @@
             this.label2.Location = new System.Drawing.Point(18, 46);
             this.label2.Size = new System.Drawing.Size(133, 30);
             this.label2.Text = "Category List";
+=======
+
+            // label2
+
+>>>>>>> Stashed changes
             // 
             // guna2Separator1
             // 
@@ -175,12 +181,16 @@
             this.Name = "categoryView";
             this.Text = "categoryView";
             this.Load += new System.EventHandler(this.categoryView_Load);
+<<<<<<< Updated upstream
             this.Controls.SetChildIndex(this.label1, 0);
             this.Controls.SetChildIndex(this.BtnAdd, 0);
             this.Controls.SetChildIndex(this.label2, 0);
             this.Controls.SetChildIndex(this.guna2Separator1, 0);
             this.Controls.SetChildIndex(this.guna2DataGridView1, 0);
             ((System.ComponentModel.ISupportInitialize)(this.guna2DataGridView1)).EndInit();
+=======
+
+>>>>>>> Stashed changes
             this.ResumeLayout(false);
             this.PerformLayout();
 

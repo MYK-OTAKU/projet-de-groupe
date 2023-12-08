@@ -89,10 +89,6 @@
             this.btnsetting.ButtonMode = Guna.UI2.WinForms.Enums.ButtonMode.RadioButton;
             this.btnsetting.CheckedState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(250)))), ((int)(((byte)(82)))), ((int)(((byte)(82)))));
             this.btnsetting.CheckedState.Image = global::projet_de_groupe.Properties.Resources.icons8_settings_96;
-            this.btnsetting.DisabledState.BorderColor = System.Drawing.Color.DarkGray;
-            this.btnsetting.DisabledState.CustomBorderColor = System.Drawing.Color.DarkGray;
-            this.btnsetting.DisabledState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(169)))), ((int)(((byte)(169)))), ((int)(((byte)(169)))));
-            this.btnsetting.DisabledState.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(141)))), ((int)(((byte)(141)))), ((int)(((byte)(141)))));
             this.btnsetting.FillColor = System.Drawing.Color.Transparent;
             this.btnsetting.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnsetting.ForeColor = System.Drawing.Color.White;
@@ -112,10 +108,6 @@
             this.btnkit.ButtonMode = Guna.UI2.WinForms.Enums.ButtonMode.RadioButton;
             this.btnkit.CheckedState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(250)))), ((int)(((byte)(82)))), ((int)(((byte)(82)))));
             this.btnkit.CheckedState.Image = global::projet_de_groupe.Properties.Resources.icons8_chef_hat_16__4_;
-            this.btnkit.DisabledState.BorderColor = System.Drawing.Color.DarkGray;
-            this.btnkit.DisabledState.CustomBorderColor = System.Drawing.Color.DarkGray;
-            this.btnkit.DisabledState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(169)))), ((int)(((byte)(169)))), ((int)(((byte)(169)))));
-            this.btnkit.DisabledState.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(141)))), ((int)(((byte)(141)))), ((int)(((byte)(141)))));
             this.btnkit.FillColor = System.Drawing.Color.Transparent;
             this.btnkit.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnkit.ForeColor = System.Drawing.Color.White;
@@ -136,10 +128,6 @@
             this.btnpos.ButtonMode = Guna.UI2.WinForms.Enums.ButtonMode.RadioButton;
             this.btnpos.CheckedState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(250)))), ((int)(((byte)(82)))), ((int)(((byte)(82)))));
             this.btnpos.CheckedState.Image = global::projet_de_groupe.Properties.Resources.icons8_pos_96__1_;
-            this.btnpos.DisabledState.BorderColor = System.Drawing.Color.DarkGray;
-            this.btnpos.DisabledState.CustomBorderColor = System.Drawing.Color.DarkGray;
-            this.btnpos.DisabledState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(169)))), ((int)(((byte)(169)))), ((int)(((byte)(169)))));
-            this.btnpos.DisabledState.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(141)))), ((int)(((byte)(141)))), ((int)(((byte)(141)))));
             this.btnpos.FillColor = System.Drawing.Color.Transparent;
             this.btnpos.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnpos.ForeColor = System.Drawing.Color.White;
@@ -159,10 +147,6 @@
             this.btnstaff.ButtonMode = Guna.UI2.WinForms.Enums.ButtonMode.RadioButton;
             this.btnstaff.CheckedState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(250)))), ((int)(((byte)(82)))), ((int)(((byte)(82)))));
             this.btnstaff.CheckedState.Image = global::projet_de_groupe.Properties.Resources.icons8_name_tag_50_png2;
-            this.btnstaff.DisabledState.BorderColor = System.Drawing.Color.DarkGray;
-            this.btnstaff.DisabledState.CustomBorderColor = System.Drawing.Color.DarkGray;
-            this.btnstaff.DisabledState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(169)))), ((int)(((byte)(169)))), ((int)(((byte)(169)))));
-            this.btnstaff.DisabledState.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(141)))), ((int)(((byte)(141)))), ((int)(((byte)(141)))));
             this.btnstaff.FillColor = System.Drawing.Color.Transparent;
             this.btnstaff.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnstaff.ForeColor = System.Drawing.Color.White;
@@ -182,10 +166,6 @@
             this.btntable.ButtonMode = Guna.UI2.WinForms.Enums.ButtonMode.RadioButton;
             this.btntable.CheckedState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(250)))), ((int)(((byte)(82)))), ((int)(((byte)(82)))));
             this.btntable.CheckedState.Image = global::projet_de_groupe.Properties.Resources.icons8_table_50_png2;
-            this.btntable.DisabledState.BorderColor = System.Drawing.Color.DarkGray;
-            this.btntable.DisabledState.CustomBorderColor = System.Drawing.Color.DarkGray;
-            this.btntable.DisabledState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(169)))), ((int)(((byte)(169)))), ((int)(((byte)(169)))));
-            this.btntable.DisabledState.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(141)))), ((int)(((byte)(141)))), ((int)(((byte)(141)))));
             this.btntable.FillColor = System.Drawing.Color.Transparent;
             this.btntable.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btntable.ForeColor = System.Drawing.Color.White;
@@ -205,10 +185,6 @@
             this.btnprod.ButtonMode = Guna.UI2.WinForms.Enums.ButtonMode.RadioButton;
             this.btnprod.CheckedState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(250)))), ((int)(((byte)(82)))), ((int)(((byte)(82)))));
             this.btnprod.CheckedState.Image = global::projet_de_groupe.Properties.Resources.icons8_package_26w__2_;
-            this.btnprod.DisabledState.BorderColor = System.Drawing.Color.DarkGray;
-            this.btnprod.DisabledState.CustomBorderColor = System.Drawing.Color.DarkGray;
-            this.btnprod.DisabledState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(169)))), ((int)(((byte)(169)))), ((int)(((byte)(169)))));
-            this.btnprod.DisabledState.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(141)))), ((int)(((byte)(141)))), ((int)(((byte)(141)))));
             this.btnprod.FillColor = System.Drawing.Color.Transparent;
             this.btnprod.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnprod.ForeColor = System.Drawing.Color.White;
@@ -228,10 +204,6 @@
             this.btncate.ButtonMode = Guna.UI2.WinForms.Enums.ButtonMode.RadioButton;
             this.btncate.CheckedState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(250)))), ((int)(((byte)(82)))), ((int)(((byte)(82)))));
             this.btncate.CheckedState.Image = global::projet_de_groupe.Properties.Resources.icons8_medium_priority_64;
-            this.btncate.DisabledState.BorderColor = System.Drawing.Color.DarkGray;
-            this.btncate.DisabledState.CustomBorderColor = System.Drawing.Color.DarkGray;
-            this.btncate.DisabledState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(169)))), ((int)(((byte)(169)))), ((int)(((byte)(169)))));
-            this.btncate.DisabledState.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(141)))), ((int)(((byte)(141)))), ((int)(((byte)(141)))));
             this.btncate.FillColor = System.Drawing.Color.Transparent;
             this.btncate.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btncate.ForeColor = System.Drawing.Color.White;
@@ -251,10 +223,6 @@
             this.btnhome.ButtonMode = Guna.UI2.WinForms.Enums.ButtonMode.RadioButton;
             this.btnhome.CheckedState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(250)))), ((int)(((byte)(82)))), ((int)(((byte)(82)))));
             this.btnhome.CheckedState.Image = global::projet_de_groupe.Properties.Resources.icons8_home_blanc_50;
-            this.btnhome.DisabledState.BorderColor = System.Drawing.Color.DarkGray;
-            this.btnhome.DisabledState.CustomBorderColor = System.Drawing.Color.DarkGray;
-            this.btnhome.DisabledState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(169)))), ((int)(((byte)(169)))), ((int)(((byte)(169)))));
-            this.btnhome.DisabledState.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(141)))), ((int)(((byte)(141)))), ((int)(((byte)(141)))));
             this.btnhome.FillColor = System.Drawing.Color.Transparent;
             this.btnhome.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnhome.ForeColor = System.Drawing.Color.White;
@@ -338,7 +306,7 @@
             // btnExit
             // 
             this.btnExit.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
-            this.btnExit.CustomClick = true;
+
             this.btnExit.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(139)))), ((int)(((byte)(152)))), ((int)(((byte)(166)))));
             this.btnExit.HoverState.FillColor = System.Drawing.Color.Red;
             this.btnExit.IconColor = System.Drawing.Color.White;

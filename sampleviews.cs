@@ -36,5 +36,10 @@ namespace projet_de_groupe
         {
 
         }
+
+        public virtual void guna2TextBox1_TextChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }

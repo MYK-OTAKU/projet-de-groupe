@@ -40,6 +40,7 @@
             this.guna2Panel2.SuspendLayout();
             this.SuspendLayout();
             // 
+<<<<<<< Updated upstream
             // guna2Panel1
             // 
             this.guna2Panel1.Controls.Add(this.label1);
@@ -130,6 +131,10 @@
             this.gunaSplineAreaDataset1.FillColor = System.Drawing.Color.Empty;
             this.gunaSplineAreaDataset1.Label = "SplineArea1";
             // 
+=======
+
+
+>>>>>>> Stashed changes
             // sampleAdd
             // 
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.None;

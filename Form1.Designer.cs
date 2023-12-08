@@ -36,8 +36,12 @@
             this.btnLogin = new Guna.UI.WinForms.GunaButton();
             this.btnExit = new Guna.UI.WinForms.GunaButton();
             this.label3 = new System.Windows.Forms.Label();
+<<<<<<< Updated upstream
             this.guna2MessageDialog1 = new Guna.UI2.WinForms.Guna2MessageDialog();
             this.guna2PictureBox1 = new Guna.UI2.WinForms.Guna2PictureBox();
+=======
+
+>>>>>>> Stashed changes
             this.gunaPanel1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.guna2PictureBox1)).BeginInit();
             this.SuspendLayout();
@@ -181,6 +185,7 @@
             this.label3.TabIndex = 5;
             this.label3.Text = "Username";
             // 
+<<<<<<< Updated upstream
             // guna2MessageDialog1
             // 
             this.guna2MessageDialog1.Buttons = Guna.UI2.WinForms.MessageDialogButtons.OK;
@@ -203,6 +208,9 @@
             this.guna2PictureBox1.TabIndex = 3;
             this.guna2PictureBox1.TabStop = false;
             // 
+=======
+
+>>>>>>> Stashed changes
             // Login
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 17F);
@@ -240,8 +248,13 @@
         private Guna.UI.WinForms.GunaButton btnLogin;
         private Guna.UI.WinForms.GunaButton btnExit;
         private System.Windows.Forms.Label label3;
+<<<<<<< Updated upstream
         private Guna.UI2.WinForms.Guna2MessageDialog guna2MessageDialog1;
         private Guna.UI2.WinForms.Guna2PictureBox guna2PictureBox1;
+=======
+        private System.Windows.Forms.PictureBox pictureBox1;
+
+>>>>>>> Stashed changes
     }
 }
 

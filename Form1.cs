@@ -73,7 +73,7 @@ namespace projet_de_groupe
             // ON va creer la base de donné et la table 
             if (MainClass.IsValidUser(txtUser.Text, txtPass.Text) == false)
             {
-                guna2MessageDialog1.Show("Invalid Username or Password ");
+
                 return;
             }
             else

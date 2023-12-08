@@ -28,17 +28,21 @@
         /// </summary>
         private void InitializeComponent()
         {
+<<<<<<< Updated upstream
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(sampleviews));
             this.label1 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
             this.guna2Separator1 = new Guna.UI2.WinForms.Guna2Separator();
             this.txtSearch = new Guna.UI2.WinForms.Guna2TextBox();
             this.BtnAdd = new Guna.UI2.WinForms.Guna2ImageButton();
+=======
+>>>>>>> Stashed changes
             this.guna2TextBox1 = new Guna.UI2.WinForms.Guna2TextBox();
             this.SuspendLayout();
             // 
-            // label1
+            // guna2TextBox1
             // 
+<<<<<<< Updated upstream
             this.label1.AutoSize = true;
             this.label1.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label1.Location = new System.Drawing.Point(503, 85);
@@ -107,6 +111,10 @@
             // 
             this.guna2TextBox1.Cursor = System.Windows.Forms.Cursors.IBeam;
             this.guna2TextBox1.DefaultText = "coucouuuuuuuuuuuuuuuuuu";
+=======
+            this.guna2TextBox1.Cursor = System.Windows.Forms.Cursors.IBeam;
+            this.guna2TextBox1.DefaultText = "ssssssssssssssssssssss";
+>>>>>>> Stashed changes
             this.guna2TextBox1.DisabledState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(208)))), ((int)(((byte)(208)))), ((int)(((byte)(208)))));
             this.guna2TextBox1.DisabledState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(226)))), ((int)(((byte)(226)))), ((int)(((byte)(226)))));
             this.guna2TextBox1.DisabledState.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(138)))), ((int)(((byte)(138)))), ((int)(((byte)(138)))));
@@ -116,21 +124,34 @@
             this.guna2TextBox1.FocusedState.Parent = this.guna2TextBox1;
             this.guna2TextBox1.HoverState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(94)))), ((int)(((byte)(148)))), ((int)(((byte)(255)))));
             this.guna2TextBox1.HoverState.Parent = this.guna2TextBox1;
+<<<<<<< Updated upstream
             this.guna2TextBox1.Location = new System.Drawing.Point(507, 224);
+=======
+            this.guna2TextBox1.Location = new System.Drawing.Point(312, 210);
+>>>>>>> Stashed changes
             this.guna2TextBox1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.guna2TextBox1.Name = "guna2TextBox1";
             this.guna2TextBox1.PasswordChar = '\0';
             this.guna2TextBox1.PlaceholderText = "";
             this.guna2TextBox1.SelectedText = "";
+<<<<<<< Updated upstream
             this.guna2TextBox1.SelectionStart = 23;
             this.guna2TextBox1.ShadowDecoration.Parent = this.guna2TextBox1;
             this.guna2TextBox1.Size = new System.Drawing.Size(200, 36);
             this.guna2TextBox1.TabIndex = 6;
+=======
+            this.guna2TextBox1.SelectionStart = 22;
+            this.guna2TextBox1.ShadowDecoration.Parent = this.guna2TextBox1;
+            this.guna2TextBox1.Size = new System.Drawing.Size(200, 36);
+            this.guna2TextBox1.TabIndex = 0;
+            this.guna2TextBox1.TextChanged += new System.EventHandler(this.guna2TextBox1_TextChanged);
+>>>>>>> Stashed changes
             // 
             // sampleviews
             // 
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.None;
             this.BackColor = System.Drawing.Color.White;
+<<<<<<< Updated upstream
             this.ClientSize = new System.Drawing.Size(862, 473);
             this.Controls.Add(this.guna2TextBox1);
             this.Controls.Add(this.txtSearch);
@@ -138,6 +159,10 @@
             this.Controls.Add(this.label2);
             this.Controls.Add(this.BtnAdd);
             this.Controls.Add(this.label1);
+=======
+            this.ClientSize = new System.Drawing.Size(894, 588);
+            this.Controls.Add(this.guna2TextBox1);
+>>>>>>> Stashed changes
             this.Font = new System.Drawing.Font("Segoe UI", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
             this.Margin = new System.Windows.Forms.Padding(4);
@@ -145,16 +170,19 @@
             this.Text = "sampleviews";
             this.Load += new System.EventHandler(this.sampleviews_Load);
             this.ResumeLayout(false);
-            this.PerformLayout();
 
         }
 
         #endregion
+<<<<<<< Updated upstream
         public Guna.UI2.WinForms.Guna2ImageButton BtnAdd;
         public System.Windows.Forms.Label label2;
         public System.Windows.Forms.Label label1;
         public Guna.UI2.WinForms.Guna2Separator guna2Separator1;
         public Guna.UI2.WinForms.Guna2TextBox txtSearch;
+=======
+
+>>>>>>> Stashed changes
         public Guna.UI2.WinForms.Guna2TextBox guna2TextBox1;
     }
 }
