@@ -10,9 +10,55 @@
             <path>sampleAdd.Designer.cs</path>
             <absolutePath>C:\Users\Mohamed\Desktop\Projet C#\projet de groupe\sampleAdd.Designer.cs</absolutePath>
             <position>
+<<<<<<< Updated upstream
               <line>92</line>
               <column>27</column>
               <lineHash>jobb0bS3FZ7h3JPQWgsMc9V/rx0tsnVUVrScalYlfPg=</lineHash>
+=======
+              <line>23</line>
+              <column>9</column>
+              <lineHash>bNHwPVsVSGsaXlsE0tFAUHv8QsLofyU0CRvvbda9e+8=</lineHash>
+            </position>
+          </DocumentTab>
+          <DocumentTab>
+            <name>pageprinciaple.Designer.cs</name>
+            <path>pageprinciaple.Designer.cs</path>
+            <absolutePath>C:\Users\Mohamed\Desktop\Projet C#\projet de groupe\pageprinciaple.Designer.cs</absolutePath>
+            <position>
+              <line>23</line>
+              <column>9</column>
+              <lineHash>bNHwPVsVSGsaXlsE0tFAUHv8QsLofyU0CRvvbda9e+8=</lineHash>
+            </position>
+          </DocumentTab>
+          <DocumentTab>
+            <name>Form1.cs</name>
+            <path>Form1.cs</path>
+            <absolutePath>C:\Users\Mohamed\Desktop\Projet C#\projet de groupe\Form1.cs</absolutePath>
+            <position>
+              <line>78</line>
+              <column>14</column>
+              <lineHash>v3mOX6Jk1Zwo+bYfRrmcCwLWKqTrmARL2ePRvFr+1fY=</lineHash>
+            </position>
+          </DocumentTab>
+          <DocumentTab>
+            <name>Form1.Designer.cs</name>
+            <path>Form1.Designer.cs</path>
+            <absolutePath>C:\Users\Mohamed\Desktop\Projet C#\projet de groupe\Form1.Designer.cs</absolutePath>
+            <position>
+              <line>231</line>
+              <column>1</column>
+              <lineHash>irwHm/TKxH6worQl8hAMX6+Jrvdj39ln9wUh+elGwNM=</lineHash>
+            </position>
+          </DocumentTab>
+          <DocumentTab>
+            <name>sampleviews.cs</name>
+            <path>sampleviews.cs</path>
+            <absolutePath>C:\Users\Mohamed\Desktop\Projet C#\projet de groupe\sampleviews.cs</absolutePath>
+            <position>
+              <line>36</line>
+              <column>1</column>
+              <lineHash>ECtRuXZaVqPomffPDuOOUlH5xQOzV7MwpJGD63sVVgQ=</lineHash>
+>>>>>>> Stashed changes
             </position>
           </DocumentTab>
           <DocumentTab>
@@ -21,6 +67,7 @@
             <absolutePath>C:\Users\Mohamed\Desktop\Projet C#\projet de groupe\sampleviews.cs</absolutePath>
             <viewKind>7651a702-06e5-11d1-8ebd-00a0c90f26ea</viewKind>
             <position>
+<<<<<<< Updated upstream
               <line>1</line>
               <column>6</column>
               <lineHash>+C3wS7Ft5DyHeLCyPV9r1wsaOWkxFdQYa1IzhmbnvNw=</lineHash>
@@ -60,6 +107,11 @@
               <line>1</line>
               <column>1</column>
               <lineHash>qqieX7IffpUBpmD86CjHkB5goe0vH+azAro8z4pICQU=</lineHash>
+=======
+              <line>36</line>
+              <column>1</column>
+              <lineHash>ECtRuXZaVqPomffPDuOOUlH5xQOzV7MwpJGD63sVVgQ=</lineHash>
+>>>>>>> Stashed changes
             </position>
           </DocumentTab>
           <DocumentTab>
@@ -68,6 +120,7 @@
             <absolutePath>C:\Users\Mohamed\Desktop\Projet C#\projet de groupe\Form1.cs</absolutePath>
             <viewKind>7651a702-06e5-11d1-8ebd-00a0c90f26ea</viewKind>
             <position>
+<<<<<<< Updated upstream
               <line>100</line>
               <column>2</column>
               <lineHash>DTrSGrG4IkF8AcqxnyRielQDOIyt1Ni9xKm99+LJHmc=</lineHash>
@@ -83,6 +136,35 @@
               <lineHash>QllkqaUhqMIbZsdN+Zr0TyZewE8SPBjfWpb+gX0Damc=</lineHash>
             </position>
           </DocumentTab>
+=======
+              <line>78</line>
+              <column>14</column>
+              <lineHash>v3mOX6Jk1Zwo+bYfRrmcCwLWKqTrmARL2ePRvFr+1fY=</lineHash>
+            </position>
+          </DocumentTab>
+          <DocumentTab>
+            <name>MainClass.cs</name>
+            <path>MainClass.cs</path>
+            <absolutePath>C:\Users\Mohamed\Desktop\Projet C#\projet de groupe\MainClass.cs</absolutePath>
+            <position>
+              <line>83</line>
+              <column>1</column>
+              <lineHash>ECtRuXZaVqPomffPDuOOUlH5xQOzV7MwpJGD63sVVgQ=</lineHash>
+            </position>
+          </DocumentTab>
+          <DocumentTab>
+            <name>Form1.resx</name>
+            <absolutePath>C:\Users\Mohamed\Desktop\Projet C#\Restaurant Management System\Form1.resx</absolutePath>
+          </DocumentTab>
+          <DocumentTab>
+            <name>Form1.Designer.cs</name>
+            <absolutePath>C:\Users\Mohamed\Desktop\Projet C#\Restaurant Management System\Form1.Designer.cs</absolutePath>
+          </DocumentTab>
+          <DocumentTab>
+            <name>Form1.cs</name>
+            <absolutePath>C:\Users\Mohamed\Desktop\Projet C#\Restaurant Management System\Form1.cs</absolutePath>
+          </DocumentTab>
+>>>>>>> Stashed changes
         </tabs>
         <name>Misc</name>
         <selectedBlock>-1</selectedBlock>

@@ -92,5 +92,55 @@ namespace projet_de_groupe
         {
             AddControls(new Home());
         }
+
+        private void label2_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void btnsetting_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void btnpos_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void btnstaff_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void btntable_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void btnprod_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void btncate_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void unamee_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void guna2ControlBox3_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void guna2ControlBox2_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

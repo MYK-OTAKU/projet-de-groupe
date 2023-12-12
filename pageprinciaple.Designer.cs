@@ -81,6 +81,7 @@
             this.label2.TabIndex = 4;
             this.label2.Text = "Restaurant Management  System";
             this.label2.TextAlign = System.Drawing.ContentAlignment.TopCenter;
+            this.label2.Click += new System.EventHandler(this.label2_Click);
             // 
             // btnsetting
             // 
@@ -100,6 +101,7 @@
             this.btnsetting.TabIndex = 9;
             this.btnsetting.Text = "Setting";
             this.btnsetting.TextOffset = new System.Drawing.Point(10, 0);
+            this.btnsetting.Click += new System.EventHandler(this.btnsetting_Click);
             // 
             // btnkit
             // 
@@ -139,6 +141,7 @@
             this.btnpos.TabIndex = 7;
             this.btnpos.Text = "POS";
             this.btnpos.TextOffset = new System.Drawing.Point(10, 0);
+            this.btnpos.Click += new System.EventHandler(this.btnpos_Click);
             // 
             // btnstaff
             // 
@@ -158,6 +161,7 @@
             this.btnstaff.TabIndex = 6;
             this.btnstaff.Text = "Staff";
             this.btnstaff.TextOffset = new System.Drawing.Point(10, 0);
+            this.btnstaff.Click += new System.EventHandler(this.btnstaff_Click);
             // 
             // btntable
             // 
@@ -177,6 +181,7 @@
             this.btntable.TabIndex = 5;
             this.btntable.Text = "Tables";
             this.btntable.TextOffset = new System.Drawing.Point(10, 0);
+            this.btntable.Click += new System.EventHandler(this.btntable_Click);
             // 
             // btnprod
             // 
@@ -196,6 +201,7 @@
             this.btnprod.TabIndex = 4;
             this.btnprod.Text = "Products";
             this.btnprod.TextOffset = new System.Drawing.Point(10, 0);
+            this.btnprod.Click += new System.EventHandler(this.btnprod_Click);
             // 
             // btncate
             // 
@@ -205,7 +211,7 @@
             this.btncate.CheckedState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(250)))), ((int)(((byte)(82)))), ((int)(((byte)(82)))));
             this.btncate.CheckedState.Image = global::projet_de_groupe.Properties.Resources.icons8_medium_priority_64;
             this.btncate.FillColor = System.Drawing.Color.Transparent;
-            this.btncate.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btncate.Font = new System.Drawing.Font("Segoe UI", 12F);
             this.btncate.ForeColor = System.Drawing.Color.White;
             this.btncate.Image = global::projet_de_groupe.Properties.Resources.icons8_medium_priority_16w__3_;
             this.btncate.ImageAlign = System.Windows.Forms.HorizontalAlignment.Left;
@@ -215,6 +221,7 @@
             this.btncate.TabIndex = 3;
             this.btncate.Text = "Catalogue";
             this.btncate.TextOffset = new System.Drawing.Point(10, 0);
+            this.btncate.Click += new System.EventHandler(this.btncate_Click);
             // 
             // btnhome
             // 
@@ -278,6 +285,7 @@
             this.unamee.Size = new System.Drawing.Size(52, 21);
             this.unamee.TabIndex = 3;
             this.unamee.Text = "label1";
+            this.unamee.Click += new System.EventHandler(this.unamee_Click);
             // 
             // guna2ControlBox3
             // 
@@ -290,6 +298,7 @@
             this.guna2ControlBox3.Name = "guna2ControlBox3";
             this.guna2ControlBox3.Size = new System.Drawing.Size(45, 29);
             this.guna2ControlBox3.TabIndex = 2;
+            this.guna2ControlBox3.Click += new System.EventHandler(this.guna2ControlBox3_Click);
             // 
             // guna2ControlBox2
             // 
@@ -302,6 +311,7 @@
             this.guna2ControlBox2.Name = "guna2ControlBox2";
             this.guna2ControlBox2.Size = new System.Drawing.Size(45, 29);
             this.guna2ControlBox2.TabIndex = 1;
+            this.guna2ControlBox2.Click += new System.EventHandler(this.guna2ControlBox2_Click);
             // 
             // btnExit
             // 
