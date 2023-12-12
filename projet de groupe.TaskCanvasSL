@@ -6,6 +6,9 @@
         <blocks />
         <tabs>
           <DocumentTab>
+<<<<<<< Updated upstream
+=======
+            <name>Restaurant Management System.csproj</name>
             <absolutePath>C:\Users\Mohamed\Desktop\Projet C#\Restaurant Management System\Restaurant Management System.csproj</absolutePath>
           </DocumentTab>
           <DocumentTab>
