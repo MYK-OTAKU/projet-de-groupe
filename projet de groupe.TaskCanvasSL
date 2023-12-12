@@ -6,6 +6,10 @@
         <blocks />
         <tabs>
           <DocumentTab>
+            <absolutePath>C:\Users\Mohamed\Desktop\Projet C#\Restaurant Management System\Restaurant Management System.csproj</absolutePath>
+          </DocumentTab>
+          <DocumentTab>
+>>>>>>> Stashed changes
             <name>sampleAdd.Designer.cs</name>
             <path>sampleAdd.Designer.cs</path>
             <absolutePath>C:\Users\Mohamed\Desktop\Projet C#\projet de groupe\sampleAdd.Designer.cs</absolutePath>
@@ -121,6 +125,7 @@
             <viewKind>7651a702-06e5-11d1-8ebd-00a0c90f26ea</viewKind>
             <position>
 <<<<<<< Updated upstream
+
               <line>100</line>
               <column>2</column>
               <lineHash>DTrSGrG4IkF8AcqxnyRielQDOIyt1Ni9xKm99+LJHmc=</lineHash>
@@ -164,7 +169,8 @@
             <name>Form1.cs</name>
             <absolutePath>C:\Users\Mohamed\Desktop\Projet C#\Restaurant Management System\Form1.cs</absolutePath>
           </DocumentTab>
->>>>>>> Stashed changes
+>>>>>>> Stashed 
+
         </tabs>
         <name>Misc</name>
         <selectedBlock>-1</selectedBlock>
